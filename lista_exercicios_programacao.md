@@ -1,10 +1,5 @@
-# UNIVERSIDADE FEDERAL DE CIÊNCIAS DA COMPUTAÇÃO
 ## Disciplina: Programação I - Python
-### Lista de Exercícios - Avaliação Final
-**Professor:** Dr. Claude Santos  
-**Semestre:** 2025.1  
-**Data de Entrega:** 20/06/2025  
-**Valor:** 100 pontos
+### Lista de Exercícios
 
 ---
 
